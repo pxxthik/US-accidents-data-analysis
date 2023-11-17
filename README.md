@@ -1,6 +1,8 @@
 # US-accidents-data-analysis
 This repository houses a comprehensive exploration of road safety dynamics in the United States.
 
+![Project Banner](https://miro.medium.com/v2/resize:fit:828/format:webp/1*SOgAK-xVXxvTwhcR59Zu6w.jpeg)
+
 ## Overview
 
 Welcome to the US Accidents Data Analysis project. This analysis delves into a comprehensive exploration of road safety dynamics in the United States using a rich dataset. The goal is to uncover patterns, trends, and insights that can inform road safety initiatives, policies, and public awareness campaigns.
